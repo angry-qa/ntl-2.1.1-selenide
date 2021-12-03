@@ -2,3 +2,5 @@
 
 
 Description: https://github.com/angry-qa/aqa-homeworks/tree/master/web
+
+Local Run: gradle test -Dselenide.headless=true
